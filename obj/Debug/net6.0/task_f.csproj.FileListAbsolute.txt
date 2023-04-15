@@ -1,0 +1,15 @@
+C:\Users\Olga\Desktop\Seminar5\task_f\obj\Debug\net6.0\task_f.csproj.AssemblyReference.cache
+C:\Users\Olga\Desktop\Seminar5\task_f\obj\Debug\net6.0\task_f.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olga\Desktop\Seminar5\task_f\obj\Debug\net6.0\task_f.AssemblyInfoInputs.cache
+C:\Users\Olga\Desktop\Seminar5\task_f\obj\Debug\net6.0\task_f.AssemblyInfo.cs
+C:\Users\Olga\Desktop\Seminar5\task_f\obj\Debug\net6.0\task_f.csproj.CoreCompileInputs.cache
+C:\Users\Olga\Desktop\Seminar5\task_f\bin\Debug\net6.0\task_f.exe
+C:\Users\Olga\Desktop\Seminar5\task_f\bin\Debug\net6.0\task_f.deps.json
+C:\Users\Olga\Desktop\Seminar5\task_f\bin\Debug\net6.0\task_f.runtimeconfig.json
+C:\Users\Olga\Desktop\Seminar5\task_f\bin\Debug\net6.0\task_f.dll
+C:\Users\Olga\Desktop\Seminar5\task_f\bin\Debug\net6.0\task_f.pdb
+C:\Users\Olga\Desktop\Seminar5\task_f\obj\Debug\net6.0\task_f.dll
+C:\Users\Olga\Desktop\Seminar5\task_f\obj\Debug\net6.0\refint\task_f.dll
+C:\Users\Olga\Desktop\Seminar5\task_f\obj\Debug\net6.0\task_f.pdb
+C:\Users\Olga\Desktop\Seminar5\task_f\obj\Debug\net6.0\task_f.genruntimeconfig.cache
+C:\Users\Olga\Desktop\Seminar5\task_f\obj\Debug\net6.0\ref\task_f.dll
